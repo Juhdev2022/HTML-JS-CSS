@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(117, 192, 235);
+}
+
+header{
+
+    color: white;
+    text-align: center;
+    
+    
+
+}
+
+section{
+
+background: white;
+border-radius: 10px;
+padding: 60px;
+width: 350px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+padding-top: 10px;
+padding-bottom: 20px;
+
+}
+
+div{
+
+}
+footer{
+    margin: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: italic;
+    padding-top: 20px;
+
+}
